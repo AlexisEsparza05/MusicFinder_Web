@@ -1,0 +1,8 @@
+{
+    "payPal": {
+      "clientId": "YOUR_PAYPAL_CLIENT_ID",
+      "merchantId": "YOUR_MERCHANT_ID",
+      "secret": "YOUR_SECRET_KEY"
+    }
+  }
+  

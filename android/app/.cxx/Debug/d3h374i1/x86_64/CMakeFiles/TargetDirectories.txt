@@ -1,0 +1,2 @@
+C:/Users/Gerar/OneDrive/Escritorio/MusicFinder/musicfinder/android/app/.cxx/Debug/d3h374i1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Gerar/OneDrive/Escritorio/MusicFinder/musicfinder/android/app/.cxx/Debug/d3h374i1/x86_64/CMakeFiles/rebuild_cache.dir
